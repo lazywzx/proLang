@@ -6,18 +6,21 @@ using std::cout;
 using std::endl;
 using std::string;
 
-// 使用范围for将所有字符改为"X"
+// 剔除字符串中的标点符号
 int main()
 {
     string line;
-    cout << "输入一段字符串" << endl;
+    string result;
+    cout << "输入一段带标点符号的字符串" << endl;
     while (getline(cin, line)) {
         if (!line.empty()) {
             for (auto &c : line) {
-                c = 'X';
+                if (!ispunct(c)) {
+                    result += c;
+                }
             }
-            cout << "修改所有字符为X" << endl;
-            cout << line << endl;
+            cout << "剔除标点符号" << endl;
+            cout << result << endl;
         }
         else {
             cout << "empty string!" << endl;

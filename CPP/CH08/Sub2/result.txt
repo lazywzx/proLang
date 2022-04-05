@@ -1,0 +1,9 @@
+isbn: x-2233	units_sold: 14	revenue: 100	avg_price: 7.14286
+isbn: x-2232	units_sold: 19	revenue: 149	avg_price: 7.84211
+isbn: x-2221	units_sold: 10	revenue: 100	avg_price: 10
+isbn: x-2233	units_sold: 14	revenue: 100	avg_price: 7.14286
+isbn: x-2232	units_sold: 19	revenue: 149	avg_price: 7.84211
+isbn: x-2221	units_sold: 10	revenue: 100	avg_price: 10
+isbn: x-2233	units_sold: 14	revenue: 100	avg_price: 7.14286
+isbn: x-2232	units_sold: 19	revenue: 149	avg_price: 7.84211
+isbn: x-2221	units_sold: 10	revenue: 100	avg_price: 10

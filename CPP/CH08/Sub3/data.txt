@@ -1,0 +1,5 @@
+This is the first line, no cin;
+And the second line is here. How are you?
+How old are YOU? I'm fine, thank you! AaaHa! I want write something here.
+
+Oh, that's all.
